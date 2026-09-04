@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jesse Uzoma 👋</h1>
+=<h1 align="center">Hi, I'm Jesse Uzoma 👋</h1>
 <h3 align="center">Cyber Security student · Full-stack developer · Founder</h3>
 
 <p align="center">
@@ -55,14 +55,6 @@ I'm a BSc Cyber Security student at the University of West London, coming from s
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HeDevedUp&theme=darkhub&no-frame=true&column=6&margin-w=8&margin-h=8" alt="Jesse's Github trophies" />
-</div>
-
----
-
 ### 🐍 Contribution snake
 
 <div align="center">
@@ -76,10 +68,10 @@ I'm a BSc Cyber Security student at the University of West London, coming from s
 ### GitHub stats
 
 <div align="center">
-  <img height="auto" width="91%" src="https://github-readme-stats.vercel.app/api?username=HeDevedUp&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="Jesse's Github Stats" />
+  <img height="auto" width="91%" src="https://github-stats-extended.vercel.app/api?username=HeDevedUp&show_icons=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="Jesse's Github Stats" />
 </div>
 <div align="center">
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeDevedUp&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" alt="Most Used Languages" />
+  <img width="41%" height="auto" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HeDevedUp&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" alt="Most Used Languages" />
   <img width="49%" height="auto" src="https://streak-stats.demolab.com/?user=HeDevedUp&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Github Current Streak" />
 </div>
 
