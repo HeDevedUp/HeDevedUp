@@ -1,59 +1,79 @@
-<h1 align="center">👋 Hello! I'm Jesse Uzoma!</h1>
-<h3 align="center">I'm open to new job opportunities and challenges</h3>
+<h1 align="center">Hi, I'm Jesse Uzoma 👋</h1>
+<h3 align="center">Cyber Security student · Full-stack developer · Founder</h3>
 
-[![Github views](https://komarev.com/ghpvc/?username=HeDevedUp&style=flat-square&color=green)](https://github.com/shelcia)<div align="left" width="50%">
-  <h2> About me </h2>
-  
-  I'm a pragmatic front-end Web craftman  with a passion for technology and software engineering looking to work with great people and solve challenging problems. Ever eager to learn and work outside of my comfort zone. 
-  
-**My goal as a developer is to build digital solutions that solve real-world problems, provide value for businesses, and help people.**
-
-  - 💻 I’m currently learning how to improve my code quality using SOLID principles and Design Patterns. 
-  - 💬 Ask me about Node.js, REST APIs, React and Redux.
-  - ⚡ Quote: Living, learning, & leveling up! 
-<div>
-  
-### Contact me:
-  <a href="mailto:uzomaesse@gmail.com?subject=Want%20to%20contact" target="_blank"><img align="left" alt="uzomaesse@gmail.com" width="22px" src="https://github.com/twbs/icons/blob/main/icons/envelope-fill.svg" /></a>
-  <a href="https://www.linkedin.com/in/jesseuzoma/" target="_blank"><img align="left" alt="jesse uzoma LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a/>
-    <a href="https://twitter.com/devtochi" target="_blank"><img align="left" alt="dev tochi Twitter Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /><a/>
-<br />
-  
----
-
-### 🛠 &nbsp;Languages and Technologies:
-
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HeDevedUp&style=flat-square&color=FADD92" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/jesseuzoma/"><img src="https://img.shields.io/badge/LinkedIn-connect-FADD92?style=flat-square&logo=linkedin&logoColor=black" /></a>
+  <a href="https://jesse-olive.vercel.app"><img src="https://img.shields.io/badge/Portfolio-visit-FADD92?style=flat-square&logo=vercel&logoColor=black" /></a>
 </p>
 
 ---
 
-###  📈 &nbsp; My GitHub Stats
-  
-  <br>
+### About me
 
- <div align="center">
-   <img height="auto" width="91%" src="https://github-readme-stats.vercel.app/api?username=HeDevedUp&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="uzom jesse Github Stats" />
+I'm a BSc Cyber Security student at the University of West London, coming from several years as a full-stack developer (including a CTO stint at Yoris Africa). These days I split my time between:
+
+- 🔐 **Cyber security** — currently deep in coursework spanning SQL injection, honeypots, subnetting, and network security, while working toward a SOC analyst internship for summer 2027.
+- 🛡️ **Building products** — I design and ship my own apps end-to-end, most recently focused on personal safety and accountability tools.
+- 🎯 **A longer-term goal**: exposing how people actually get hacked — especially through social engineering — and building tools that help people recognise it before it costs them.
+
+---
+
+### 🚧 What I'm building
+
+| Project | What it is |
+|---|---|
+| **Sabi** | A personal safety app built for the Nigerian context |
+| **Steadyfy** | An anonymous accountability and journaling app |
+| **Social Engineering Exposer** | A final-year cybersecurity project surfacing and explaining social engineering tactics in the wild |
+
+---
+
+### 🛠 Skills & tools
+
+**Security**
+<p>
+  <img src="https://img.shields.io/badge/-Network%20Security-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/-SQLMap%20%2F%20DVWA-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Cowrie%20Honeypots-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Wireshark-black?style=flat-square" />
+</p>
+
+**Development**
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</p>
+
+**Currently learning:** CompTIA Security+, TryHackMe SOC Level 1, LPIC-1, RHCSA 8, Splunk & Sentinel
+
+---
+
+### 📈 GitHub stats
+
+<div align="center">
+  <img height="auto" width="91%" src="https://github-readme-stats.vercel.app/api?username=HeDevedUp&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="Jesse's Github Stats" />
 </div>
-<div align="center">  
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeDevedUp&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" alt="Jesse Uzoma Most Used Languages" />
-  <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=HeDevedUp&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Jesse Uzoma Github Current Streak" /> 
+<div align="center">
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeDevedUp&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" alt="Most Used Languages" />
+  <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=HeDevedUp&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Github Current Streak" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
+---
+
+### 📫 Get in touch
+
+<p align="left">
+  <a href="mailto:uzomaesse@gmail.com"><img align="left" alt="Email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+  <a href="https://www.linkedin.com/in/jesseuzoma/" target="_blank"><img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <a href="https://jesse-olive.vercel.app" target="_blank"><img align="left" alt="Portfolio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vercel.svg" /></a>
+</p>
+<br clear="left"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
